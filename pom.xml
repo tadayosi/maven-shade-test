@@ -14,7 +14,7 @@
 
     <camel-version>2.25.1</camel-version>
     <box-java-sdk-version>2.10.0</box-java-sdk-version>
-    <jsoup-version>1.11.3</jsoup-version>
+    <jsoup-version>1.15.3</jsoup-version>
   </properties>
 
   <dependencies>
